@@ -14,8 +14,10 @@
 		"resolveJsonModule": true,
 		"isolatedModules": true,
 		"noEmit": true,
-		"jsx": "react-jsx"
+		"jsx": "react-jsx",
+		"types": ["vite/client"]  // ← ADD THIS LINE
 	},
 	"include": ["app", "node_modules/photoncss", "node_modules/vite-plugin-pwa/client.d.ts"],
 	"references": [{ "path": "./tsconfig.vite.json" }]
 }
+
