@@ -1,7 +1,7 @@
 {
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
     "name": "SHS Games",
-    "short_name": "SHS Games",
+    "short_name": "Sight.w",
     "description": "Unblocked games • part of an inside job.",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
